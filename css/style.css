@@ -77,14 +77,23 @@ body
 
 #back
 {
-    background: rgb(216, 213, 213);
+    /* background: rgb(216, 213, 213); */
+    background: #f5f5f5;
+}
+
+.list li
+{
+    padding: 5px;
+    margin-bottom: 6px;
+    background-color: rgb(216, 213, 213);
+    border-radius: 10px;
 }
 
 .white
 {
     padding: 30px;
     background: #ffffff;
-    border-radius: 20px;
+    border-radius: 50px;
 }
 
 /*            About        */
@@ -99,6 +108,16 @@ body
 {
     height: 400px;
 }
+
+/* .skills
+{
+    padding: 5px;
+} */
+
+/* .skills li
+{
+    padding-top: 8px;
+} */
 
 /*       Navigation Menu       */
 
@@ -165,10 +184,20 @@ body
     padding-top: 35px;
 }
 
-.position li
+/* .position li
 {
     padding: 5px;
-}
+} */
+
+/* .position li:before {
+    background-color: #000000;
+    width: 2px;
+    content: '';
+    position: absolute;
+    top: 30px;
+    bottom: 0px;
+    left: 38px;
+  } */
 
 /* .description li {
     list-style-type: none;
