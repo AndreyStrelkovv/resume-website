@@ -1,2 +1,2 @@
 # resume-website
- Personal Website, HTML, CSS, JavaScript
+ Personal Website: HTML, CSS
