@@ -88,6 +88,35 @@ body
     height: 400px;
 }
 
+/*    Social Icaons      */
+
+.social-icons
+{
+    top: 50%;
+    position: sticky;
+    transform: translateY(-50%);
+    /* color: green; */
+    z-index: 1;
+    width: 80%;
+}
+
+.social-icons ul
+{
+    padding: initial;
+}
+
+.social-icons ul li
+{
+    height: 40px;
+    width: 40px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    color: white;
+    background-color: #000000;
+}
+
 /*       Navigation Menu       */
 
 .nav-bar{
